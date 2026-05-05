@@ -1,0 +1,4 @@
+"Stage","N_Patients","Pct_Unwtd","Pct_Weighted"
+"Stage 1: Initial T2DM Diagnosis",22989,100,100
+"Stage 2: Received Treatment",19939,86.7,86.7
+"Stage 3: Had Follow-Up Care",15422,67.1,66.9

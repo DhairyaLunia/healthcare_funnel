@@ -1,0 +1,4 @@
+"cost_tier","N_Diagnosed","Pct_Treatment","Pct_Followup","Dropoff_Pct","Avg_OOP"
+"Low",10333,80.5,54.9,45.1,230
+"Medium",9905,91.1,74.7,25.3,1331
+"High",2751,91.4,79,21,6668

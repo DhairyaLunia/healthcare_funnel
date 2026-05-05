@@ -1,0 +1,5 @@
+"income_cat","N_Diagnosed","Pct_Treatment","Pct_Followup","Dropoff_Pct"
+"Below 138% FPL",1558,80.8,57.8,42.2
+"138-250% FPL",1282,81.3,54.8,45.2
+"250-400% FPL",2083,84.9,59.2,40.8
+"Above 400% FPL",18066,87.9,69.6,30.4

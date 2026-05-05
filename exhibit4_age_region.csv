@@ -1,0 +1,10 @@
+"Category","Subgroup","N","Pct_Tx","Pct_FU","Dropoff_Pct"
+"Age Group","00-18",108,67.4,35.6,64.4
+"Age Group","19-34",510,74,43.4,56.6
+"Age Group","35-44",1085,78.7,49.3,50.7
+"Age Group","45-64",8440,85.4,61.8,38.2
+"Age Group","65+",12846,88.9,73,27
+"Region","MIDWEST",5540,86.4,67.7,32.3
+"Region","NOREAST",4321,86.4,66.4,33.6
+"Region","SOUTH",9312,87.2,68.1,31.9
+"Region","WEST",3816,86,63.5,36.5
